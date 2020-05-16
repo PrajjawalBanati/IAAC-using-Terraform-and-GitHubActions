@@ -3,7 +3,7 @@ terraform {
     organization = "xebia-intern-2020"
 
     workspaces {
-      name = "learn-terraform-circleci"
+      name = "learn-terraform-github-actions"
     }
   }
 }
